@@ -1,0 +1,18 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Local environment and secrets
+.env
+venv/
+.venv/
+
+# Model files
+*.h5
+*.keras
+*.pkl
+*.joblib
