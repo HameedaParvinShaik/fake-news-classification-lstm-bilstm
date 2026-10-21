@@ -32,7 +32,7 @@ This academic deep learning project compares Long Short-Term Memory (LSTM) and B
 - Deep Learning for text classification
 
 ## Repository Contents
-- `DL-Project.ipynb` — project notebook
+- `DL-Project-GC.ipynb` — project notebook
 
 ## Academic Context
 Research project submitted for the Deep Learning course at VIT-AP University, April 2026.
