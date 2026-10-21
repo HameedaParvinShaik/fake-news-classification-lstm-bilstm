@@ -36,6 +36,10 @@ This academic deep learning project compares Long Short-Term Memory (LSTM) and B
 
 ## Academic Context
 Research project submitted for the Deep Learning course at VIT-AP University, April 2026.
+## Dataset
 
-## Note
-The dataset files are not included in this repository yet. Instructions for obtaining and preparing the data will be added after confirming the dataset source and format.
+The dataset used for this project was obtained from Kaggle:
+
+- [Fake News Classification Dataset](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification)
+
+The Excel dataset files are not included in this repository. Please refer to the original Kaggle page for dataset access and usage terms.
